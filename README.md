@@ -1,3 +1,5 @@
+This is a backup of the source code for the NPM package [@diffblue/cover-client
+](https://www.npmjs.com/package/@diffblue/cover-client)
 # Diffblue Cover client library - Node.js API for Diffblue Cover
 
 The Diffblue Cover client library provides a programmatic interface and CLI for communicating with the Diffblue Cover API.
